@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\logan\\.nuget\\packages\\": {}
+    "C:\\Users\\nvham\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\source\\repos\\Titletown\\TitleTownCards\\TitleTownCards.csproj",
+      "projectUniqueName": "C:\\Users\\nvham\\source\\repos\\TitleTownCards\\TitleTownCards.csproj",
       "projectName": "TitleTownCards",
-      "projectPath": "C:\\source\\repos\\Titletown\\TitleTownCards\\TitleTownCards.csproj",
-      "packagesPath": "C:\\Users\\logan\\.nuget\\packages\\",
-      "outputPath": "C:\\source\\repos\\Titletown\\TitleTownCards\\obj\\",
+      "projectPath": "C:\\Users\\nvham\\source\\repos\\TitleTownCards\\TitleTownCards.csproj",
+      "packagesPath": "C:\\Users\\nvham\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nvham\\source\\repos\\TitleTownCards\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\logan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\nvham\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
